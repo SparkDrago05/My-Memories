@@ -1,4 +1,4 @@
-# My-Memories
+# My Memories
 
 My Memories is a free to use software. It is a modern journal app. It has a stunnong look. You will feel comfortable in using it.
 
@@ -12,6 +12,6 @@ My Memories is a free to use software. It is a modern journal app. It has a stun
 
 You can report an issue by opening an issue in this git repositary.
 
-## Cradits
+## Credits
 
 Made By Spark Drago.
