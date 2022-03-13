@@ -1,2 +1,17 @@
 # My-Memories
-My Memories is a free to use software. It has a Journal feature. You can save your everyday memories easily in this and can review those whenever you want.
+
+My Memories is a free to use software. It is a modern journal app. It has a stunnong look. You will feel comfortable in using it.
+
+## Features
+
+* Multi-User Feature.
+* Password Protection.
+* Private Data.
+
+## Support
+
+You can report an issue by opening an issue in this git repositary.
+
+## Cradits
+
+Made By Spark Drago.
